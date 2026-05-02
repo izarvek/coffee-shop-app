@@ -40,7 +40,7 @@ class _MainScreenState extends State<MainScreen> {
                         color: isActive ? primaryColor : secondaryColor,
                         size: 25,
                       ),
-                      if(isActive) const SizedBox(height: 7,),
+                      if(isActive) const SizedBox(height: 5,),
                       if (isActive)
                       Container(
                         height: 5,
