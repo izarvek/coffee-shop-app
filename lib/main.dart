@@ -1,4 +1,4 @@
-
+import 'package:coffee_shop/pages/main_screen.dart';
 import 'package:flutter/material.dart';
 
 void main(){
@@ -10,6 +10,10 @@ class CoffeeShop extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return const Placeholder();
+    
+    return const MaterialApp(
+      debugShowCheckedModeBanner: false,
+      home: MainScreen(),
+    );
   }
 }
