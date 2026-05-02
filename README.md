@@ -10,9 +10,6 @@ Elevate your morning ritual with **Coffee Shop**, a sleek, high-performance coff
 
 ## 📱 Preview
 
-|                  Splash Screen                   |                   Home Menu                    |                   Item Detail                    |
-| :----------------------------------------------: | :--------------------------------------------: | :----------------------------------------------: |
-| <img src="screenshots/splash.png" width="200" /> | <img src="screenshots/home.png" width="200" /> | <img src="screenshots/detail.png" width="200" /> |
 
 ---
 
